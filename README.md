@@ -1,5 +1,6 @@
 # GitDemo Repository
 
+Conflicting change 
 Demo repository for education
 
 ## Work in Progress
