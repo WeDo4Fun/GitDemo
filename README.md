@@ -1,13 +1,14 @@
 # GitDemo Repository
 
-Conflicting change 
+# $${\color{red}Nothing \space \color{lightblue}To \space \color{orange}See \space \color{yellow}Here. \space \color{lightgreen}Move \space \color{purple}On.}$$
+
 Demo repository for education
 
 ## Work in Progress
 
 Repository is shadowing local directory GitDemo whcih is continously in 'work in progess' stage. 
 
-For browsing users: There wont be any logical, useful or potential 'of interest' files in this repository. It's sole purpose is for use of continously adding, removing simple .txt / .js / .htm or simlar files, creating pull requests, push / pull commands etc. 
+For browsing users: There wont be any logical, useful or potential 'of interest' files in this repository. It's sole purpose is for use of continously adding, removing simple .txt / .js / .htm or simlar files, creating pull requests, push / pull commands etc. cd 
 
 ## License : GNU General Public License v3.0
 
