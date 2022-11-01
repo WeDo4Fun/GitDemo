@@ -1,6 +1,6 @@
 # GitDemo Repository
 
-$${\color{red}Nothing to see here. Move on}$$
+# $${\color{red}Nothing \space \color{lightblue}To \space \color{orange}See \space \colort{yellow}Here. \space \color{lightgreen}Move \space \color{purple}On.}$$
 
 Demo repository for education
 
